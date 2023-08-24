@@ -1,0 +1,64 @@
+.img-container {
+  width: 30rem;
+  height: 20rem;
+  transition: all .3s ease-in-out;
+  overflow: hidden;
+}
+
+.img-container:hover {
+  transform: scale(.95);
+}
+
+.image {
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  transition: all .5s ease-in-out;
+}
+
+.image:hover {
+  transform: scale(1.3);
+}
+
+#img-1 {
+  background-image: url("1.ec81ead4.jpg");
+}
+
+#img-3 {
+  background-image: url("2.56a17c9f.jpg");
+}
+
+#img-4 {
+  background-image: url("3.0d301985.jpg");
+}
+
+#img-5 {
+  background-image: url("4.424c22e2.jpg");
+}
+
+#img-7 {
+  background-image: url("5.6a677b5b.jpg");
+}
+
+#img-10 {
+  background-image: url("6.49554a09.jpg");
+}
+
+#img-12 {
+  background-image: url("7.6c9947bd.jpg");
+}
+
+#img-13 {
+  background-image: url("8.29372431.jpg");
+}
+
+#img-15 {
+  background-image: url("9.34beb460.jpg");
+}
+
+#img-19 {
+  background-image: url("10.64f7e041.jpg");
+}
+
+/*# sourceMappingURL=index.84c39ed2.css.map */
