@@ -1,2 +1,2 @@
 var e=document.querySelector(".cursor"),s=document.querySelectorAll(".navLinks");window.addEventListener("mousemove",function(s){e.style.top=s.pageY+"px",e.style.left=s.pageX+"px"}),s.forEach(s=>{s.addEventListener("mouseleave",()=>{e.classList.remove("link-hover")}),s.addEventListener("click",()=>{e.classList.remove("link-hover")}),s.addEventListener("mouseover",()=>{e.classList.add("link-hover")}),s.addEventListener("mouseleave",()=>{s.classList.remove("link-hovered")}),s.addEventListener("click",()=>{s.classList.remove("link-hovered")}),s.addEventListener("mouseover",()=>{s.classList.add("link-hovered")})});
-//# sourceMappingURL=index.6cf5c361.js.map
+//# sourceMappingURL=index.b281becc.js.map
